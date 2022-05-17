@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "143914932076",
+    "project_id": "health-plus-rm",
+    "storage_bucket": "health-plus-rm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:143914932076:android:2c42cec6790647d8afc549",
+        "android_client_info": {
+          "package_name": "com.example.healthplusremake"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "143914932076-l88mo2qp0t0dikfcqvn5ru5mh5lravh4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCe1asmsh4SdLY-US0f9H6azjZceCIMnSw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "143914932076-l88mo2qp0t0dikfcqvn5ru5mh5lravh4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
