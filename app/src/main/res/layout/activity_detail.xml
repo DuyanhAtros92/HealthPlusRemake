@@ -250,7 +250,21 @@
                 android:paddingStart="@dimen/_20sdp"
                 android:paddingEnd="@dimen/_20sdp"
                 android:background="@drawable/btn_bg3"
-                android:text="Chat"/>
+                android:text="Chat"
+                />
+
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/btnBook"
+                android:textColor="@color/white"
+                android:layout_margin="@dimen/_10sdp"
+                android:paddingStart="@dimen/_20sdp"
+                android:paddingEnd="@dimen/_20sdp"
+                android:background="@drawable/btn_bg3"
+                android:text="Đặt lịch"
+                />
 
         </LinearLayout>
     </androidx.core.widget.NestedScrollView>

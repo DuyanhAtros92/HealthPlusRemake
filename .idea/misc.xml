@@ -8,6 +8,7 @@
         <entry key="..\:/Mobile Projects/HealthPlusRemake/app/src/main/res/drawable/btn_bg2.xml" value="0.1665" />
         <entry key="..\:/Mobile Projects/HealthPlusRemake/app/src/main/res/drawable/btn_bg3.xml" value="0.1395" />
         <entry key="..\:/Mobile Projects/HealthPlusRemake/app/src/main/res/drawable/btn_top.xml" value="0.186" />
+        <entry key="..\:/Mobile Projects/HealthPlusRemake/app/src/main/res/drawable/button_background.xml" value="0.126" />
         <entry key="..\:/Mobile Projects/HealthPlusRemake/app/src/main/res/drawable/ic_back.xml" value="0.1395" />
         <entry key="..\:/Mobile Projects/HealthPlusRemake/app/src/main/res/drawable/ic_baseline_access_time_24.xml" value="0.1395" />
         <entry key="..\:/Mobile Projects/HealthPlusRemake/app/src/main/res/drawable/ic_email.xml" value="0.105" />
@@ -18,16 +19,24 @@
         <entry key="..\:/Mobile Projects/HealthPlusRemake/app/src/main/res/drawable/ic_person.xml" value="0.186" />
         <entry key="..\:/Mobile Projects/HealthPlusRemake/app/src/main/res/drawable/ic_register_bg.xml" value="0.105" />
         <entry key="..\:/Mobile Projects/HealthPlusRemake/app/src/main/res/drawable/ic_reister_bg.xml" value="0.186" />
+        <entry key="..\:/Mobile Projects/HealthPlusRemake/app/src/main/res/drawable/ic_send.xml" value="0.126" />
+        <entry key="..\:/Mobile Projects/HealthPlusRemake/app/src/main/res/drawable/item_left_side_background.xml" value="0.126" />
+        <entry key="..\:/Mobile Projects/HealthPlusRemake/app/src/main/res/drawable/item_right_side_background.xml" value="0.126" />
         <entry key="..\:/Mobile Projects/HealthPlusRemake/app/src/main/res/drawable/login_btn_bg.xml" value="0.186" />
         <entry key="..\:/Mobile Projects/HealthPlusRemake/app/src/main/res/drawable/search_bg.xml" value="0.1345" />
+        <entry key="..\:/Mobile Projects/HealthPlusRemake/app/src/main/res/layout/activity_chat.xml" value="0.225" />
         <entry key="..\:/Mobile Projects/HealthPlusRemake/app/src/main/res/layout/activity_detail.xml" value="0.22" />
         <entry key="..\:/Mobile Projects/HealthPlusRemake/app/src/main/res/layout/activity_home.xml" value="0.22" />
-        <entry key="..\:/Mobile Projects/HealthPlusRemake/app/src/main/res/layout/activity_login.xml" value="0.1" />
+        <entry key="..\:/Mobile Projects/HealthPlusRemake/app/src/main/res/layout/activity_login.xml" value="0.25" />
         <entry key="..\:/Mobile Projects/HealthPlusRemake/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Mobile Projects/HealthPlusRemake/app/src/main/res/layout/activity_profile.xml" value="0.22395833333333334" />
         <entry key="..\:/Mobile Projects/HealthPlusRemake/app/src/main/res/layout/activity_register.xml" value="0.18" />
         <entry key="..\:/Mobile Projects/HealthPlusRemake/app/src/main/res/layout/activity_splash.xml" value="0.415625" />
+        <entry key="..\:/Mobile Projects/HealthPlusRemake/app/src/main/res/layout/item_left.xml" value="0.22395833333333334" />
+        <entry key="..\:/Mobile Projects/HealthPlusRemake/app/src/main/res/layout/item_right.xml" value="0.225" />
         <entry key="..\:/Mobile Projects/HealthPlusRemake/app/src/main/res/layout/item_rv_main_category.xml" value="0.18376068376068377" />
         <entry key="..\:/Mobile Projects/HealthPlusRemake/app/src/main/res/layout/item_rv_sub_category.xml" value="0.1" />
+        <entry key="..\:/Mobile Projects/HealthPlusRemake/app/src/main/res/layout/item_user.xml" value="0.225" />
         <entry key="..\:/Mobile Projects/HealthPlusRemake/app/src/main/res/layout/register_activity.xml" value="0.25" />
       </map>
     </option>
